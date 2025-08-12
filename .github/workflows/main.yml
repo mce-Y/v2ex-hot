@@ -30,7 +30,6 @@ jobs:
 
     - name: Run V2EX scraper
       run: |
-        cd test
         python v2ex_hot_scraper.py
 
     - name: Commit and push changes
