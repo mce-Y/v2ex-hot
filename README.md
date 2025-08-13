@@ -1,0 +1,6 @@
+- 解决V2Next脚本历史最热无数据的问题
+- 使用方式
+  - 修改脚本中的`hotUrl`为`https://mce-y.github.io/v2ex-hot/hot/`
+- 抓取的数据从8月12开始
+- 只修复昨天最热     前天最热    
+- 代码由Claude Code生成
