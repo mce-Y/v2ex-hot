@@ -17,8 +17,8 @@
         "nodeUrl": "life",
         "avatar": "https://cdn.v2ex.com/gravatar/8bd1911a5b05e20fd1233392ebbcf4dc?s=48&d=retro",
         "username": "565656",
-        "replyCount": 95,
-        "lastReplyUsername": "iovekkk",
+        "replyCount": 97,
+        "lastReplyUsername": "jedihy",
         "isTop": false
     },
     {
@@ -28,8 +28,8 @@
         "nodeUrl": "life",
         "avatar": "https://cdn.v2ex.com/avatar/05b9/8e95/238660_large.png?m=1694826787",
         "username": "tomorrowan",
-        "replyCount": 86,
-        "lastReplyUsername": "salor",
+        "replyCount": 88,
+        "lastReplyUsername": "Donahue",
         "isTop": false
     },
     {
@@ -44,21 +44,10 @@
         "isTop": false
     },
     {
-        "title": "项目已经正常按期交付 , 黑心老板验收后明确表示没有问题 没有结尾款把我拉黑了",
-        "id": 1154383,
-        "nodeTitle": "程序员",
-        "nodeUrl": "programmer",
-        "avatar": "https://cdn.v2ex.com/avatar/1204/ff9a/682040_large.png?m=1755913507",
-        "username": "yuntun",
-        "replyCount": 57,
-        "lastReplyUsername": "ChinaHkEgg",
-        "isTop": false
-    },
-    {
         "title": "男程序员染头发影响找工作吗",
         "id": 1154414,
-        "nodeTitle": "生活",
-        "nodeUrl": "life",
+        "nodeTitle": "职场话题",
+        "nodeUrl": "career",
         "avatar": "https://cdn.v2ex.com/avatar/0c29/bac3/666595_large.png?m=1725678515",
         "username": "fFeeOps",
         "replyCount": 43,
@@ -79,8 +68,8 @@
     {
         "title": "求助！ 2K 以内头戴式降噪耳机推荐",
         "id": 1154409,
-        "nodeTitle": "问与答",
-        "nodeUrl": "qna",
+        "nodeTitle": "耳机",
+        "nodeUrl": "earphone",
         "avatar": "https://cdn.v2ex.com/gravatar/c98b5ff575b312b68aeeacf418632179?s=48&d=retro",
         "username": "Tsundokuu",
         "replyCount": 32,
@@ -132,6 +121,17 @@
         "isTop": false
     },
     {
+        "title": "国内在 iPhone 上使用美区 apple ID,会有什么不方便的地方吗?",
+        "id": 1154376,
+        "nodeTitle": "问与答",
+        "nodeUrl": "qna",
+        "avatar": "https://cdn.v2ex.com/gravatar/13d33b038f89a9ed0ad29bd412fbbdc0?s=48&d=retro",
+        "username": "jsjcjsjc",
+        "replyCount": 22,
+        "lastReplyUsername": "KoreaFish",
+        "isTop": false
+    },
+    {
         "title": "大佬们 steam 的红警 2 只能买套装么？能单独买不？",
         "id": 1154440,
         "nodeTitle": "Steam",
@@ -140,17 +140,6 @@
         "username": "revival83",
         "replyCount": 22,
         "lastReplyUsername": "UnluckyNinja",
-        "isTop": false
-    },
-    {
-        "title": "国内在 iPhone 上使用美区 apple ID,会有什么不方便的地方吗?",
-        "id": 1154376,
-        "nodeTitle": "问与答",
-        "nodeUrl": "qna",
-        "avatar": "https://cdn.v2ex.com/gravatar/13d33b038f89a9ed0ad29bd412fbbdc0?s=48&d=retro",
-        "username": "jsjcjsjc",
-        "replyCount": 21,
-        "lastReplyUsername": "RJR916",
         "isTop": false
     },
     {
@@ -211,8 +200,8 @@
     {
         "title": "请教一下浴室水压太小，买那种增压泵有没有用",
         "id": 1154422,
-        "nodeTitle": "问与答",
-        "nodeUrl": "qna",
+        "nodeTitle": "生活",
+        "nodeUrl": "life",
         "avatar": "https://cdn.v2ex.com/gravatar/bc983e5ffa37dfa10e99afdc6f6278d5?s=48&d=retro",
         "username": "Ldo",
         "replyCount": 16,
@@ -228,6 +217,28 @@
         "username": "fanyingmao",
         "replyCount": 15,
         "lastReplyUsername": "zenoor",
+        "isTop": false
+    },
+    {
+        "title": "chatgpt 是不是不把免费用户当用户了？",
+        "id": 1154470,
+        "nodeTitle": "OpenAI",
+        "nodeUrl": "openai",
+        "avatar": "https://cdn.v2ex.com/gravatar/708d900c4d23d905941b0c2cf38b7565?s=48&d=retro",
+        "username": "wniming",
+        "replyCount": 15,
+        "lastReplyUsername": "docx",
+        "isTop": false
+    },
+    {
+        "title": "各位有没有碰到过 Win11 有概率无法复制文件的问题",
+        "id": 1154458,
+        "nodeTitle": "Windows",
+        "nodeUrl": "windows",
+        "avatar": "https://cdn.v2ex.com/gravatar/82a8773b0f9082c26ce1f9d255900639?s=48&d=retro",
+        "username": "JasonZhou",
+        "replyCount": 14,
+        "lastReplyUsername": "laminux29",
         "isTop": false
     },
     {
@@ -250,28 +261,6 @@
         "username": "razios",
         "replyCount": 13,
         "lastReplyUsername": "zhhmax",
-        "isTop": false
-    },
-    {
-        "title": "各位有没有碰到过 Win11 有概率无法复制文件的问题",
-        "id": 1154458,
-        "nodeTitle": "Windows",
-        "nodeUrl": "windows",
-        "avatar": "https://cdn.v2ex.com/gravatar/82a8773b0f9082c26ce1f9d255900639?s=48&d=retro",
-        "username": "JasonZhou",
-        "replyCount": 13,
-        "lastReplyUsername": "renmu",
-        "isTop": false
-    },
-    {
-        "title": "chatgpt 是不是不把免费用户当用户了？",
-        "id": 1154470,
-        "nodeTitle": "程序员",
-        "nodeUrl": "programmer",
-        "avatar": "https://cdn.v2ex.com/gravatar/708d900c4d23d905941b0c2cf38b7565?s=48&d=retro",
-        "username": "wniming",
-        "replyCount": 13,
-        "lastReplyUsername": "yidinghe",
         "isTop": false
     },
     {
@@ -310,8 +299,8 @@
     {
         "title": "rust 程序员的硬盘是多大的？ nodejs 继任者？",
         "id": 1154460,
-        "nodeTitle": "问与答",
-        "nodeUrl": "qna",
+        "nodeTitle": "Rust",
+        "nodeUrl": "rust",
         "avatar": "https://cdn.v2ex.com/avatar/dd9d/8f79/520237_large.png?m=1755606723",
         "username": "imes",
         "replyCount": 11,
